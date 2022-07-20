@@ -29,3 +29,11 @@ const broadBean = new Plant('vicia faba', 'broad bean', 'herbaceous', ['food', '
 
 console.log(mullberry.usefulString())
 console.log(broadBean.usefulString())
+
+/// still learning
+
+console.log('Maybe you are right');
+
+function radius (x){
+    return(x*3.14);
+}
